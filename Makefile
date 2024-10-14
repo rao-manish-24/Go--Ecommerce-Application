@@ -4,5 +4,6 @@ build:
 run: build
 	@./bin/ggcommerce
 
+
 test:
 	@go test -v ./...
